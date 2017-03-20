@@ -1,0 +1,46 @@
+
+
+#alicia {
+    border-style: dotted;
+    border-width: 20px;
+    border-color: RoyalBlue ;
+    border-radius:30px ;
+    background-color: white;
+}
+
+#lauren {
+border-style: solid;
+border-color: Crimson;
+border-width:20px;
+padding:20px;
+}
+
+body {
+background-image: url(https://www.clipartsgram.com/image/1569626223-clouds-blue-pattern-background-tumblr-113673.jpg)
+}
+
+#halsey {
+    border-style: double;
+    border-color: Maroon;
+    border-width: 20px;
+    border-radius: 20px;
+}
+
+#ohwonder {
+    border-style: ridge;
+    border-color: Plum;
+    border-width: 20px;
+    padding:20px;
+}
+
+#jlaw {
+    border-style: inset;
+    border-color: Cyan;
+    border-width: 30px;
+    border-radius: 20px;
+}
+
+h1 {
+    font-family: 'Shrikhand', cursive;
+}
+
